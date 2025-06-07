@@ -1,1 +1,1 @@
-print( "Hei verden" )  # dårlig formatering med ekstra mellomrom
+print("Hei verden")
