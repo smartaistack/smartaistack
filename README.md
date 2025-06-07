@@ -1,3 +1,5 @@
+![SmartAiStack Banner](gBanner github.png)
+
 # SmartAiStack
 
 **Smarter AI. Modular by design.**
