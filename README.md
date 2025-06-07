@@ -1,4 +1,4 @@
-![SmartAiStack Banner](Banner github.png)
+![SmartAiStack Banner](github-banner.png)
 
 # SmartAiStack
 
