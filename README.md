@@ -1,4 +1,5 @@
-![SmartAiStack Banner](EQ6Zmb1tUuZLHfSpfzymUJ.png)
+![SmartAiStack Banner](Banner%20github.png)
+
 
 # SmartAiStack
 
