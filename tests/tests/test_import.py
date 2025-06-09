@@ -1,3 +1,3 @@
 def test_import():
     import core.test_trigger
-    assert True
+    assert hasattr(core.test_trigger, "__file__")
