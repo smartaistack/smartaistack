@@ -1,10 +1,9 @@
 import sys
 import os
 
-# Gå opp to nivåer slik at 'core' blir tilgjengelig
 sys.path.insert(0, os.path.abspath(os.path.join(os.path.dirname(__file__), "../..")))
 
-from core.test_trigger import test_trigger  # noqa: F401
+from core.core.test_trigger import test_trigger  # noqa: F401
 
 def test_import():
     assert True
